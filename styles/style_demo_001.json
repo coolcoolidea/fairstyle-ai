@@ -1,0 +1,10 @@
+{
+  "id": "style_demo_001",
+  "artist_id": "artist_demo",
+  "artist_display_name": "Artist A",
+  "name": "Demo Ink Sketch",
+  "desc": "High-contrast ink sketch style. (Demo only)",
+  "license_tier": "personal",
+  "preview_url": "https://picsum.photos/seed/fairstyle-001/512",
+  "share_pct": "50%"
+}

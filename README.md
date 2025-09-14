@@ -7,6 +7,22 @@ This is a **proof-of-concept** (PoC) you can run locally in minutes: Streamlit U
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/list.png" alt="Style list page" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/generate.png" alt="Generate result with manifest and usage event" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/recipe.png" alt="Revenue split recipe" width="800"/>
+</p>
+
+---
+
 ## Why
 
 Most AI image generators were trained on data that likely includes creators' works **without consent or compensation**. That erodes trust and creates legal uncertainty for teams who want to use AI safely.
