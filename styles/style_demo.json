@@ -1,0 +1,14 @@
+{
+  "id": "style_demo_001",
+  "artist_id": "artist_demo",
+  "artist_display_name": "Artist Name",
+  "name": "Demo Ink Sketch",
+  "desc": "High-contrast ink sketch style. (Demo only)",
+  "license_tier": "personal",
+  "preview_url": "/previews/style_demo_001.png",
+  "lora_ref": null,
+  "blocked_categories": ["adult", "hate"],
+  "example_prompts": [
+    "a calm city street at dawn, high-contrast ink wash, fine line art, cinematic framing."
+  ]
+}

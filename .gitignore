@@ -1,0 +1,54 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Env & secrets ---
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# --- Editors/OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Builds & metadata ---
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# --- Tests & coverage ---
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# --- Caches & analyzers ---
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+
+# --- App data & outputs (keep folder with .gitkeep) ---
+data/fairstyle.db
+data/*.db
+data/outputs/*
+!data/outputs/.gitkeep
+
+# --- Logs ---
+*.log
+logs/
+log/
+
